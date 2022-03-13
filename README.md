@@ -1,0 +1,2 @@
+# TJUThesisTemplate_LaTeX_2022
+天津大学2022届本科生毕业设计LaTeX模板，编译环境基于TeXLive 2020+TeXStudio
